@@ -1,4 +1,4 @@
-# SLC-GQIDS-ParameterAlarmPercentages
+# Parameter alarm percentages
 
 Retrieves the severity-wise percentages within a specified time period.
 
@@ -21,7 +21,7 @@ This data sources comes with 3 arguments:
 
 - Parameter Id
   - In the format "A/B/C" where
-    - A is the DataMiner I
+    - A is the DataMiner Id
     - B is the element Id
     - C is the parameter Id
 - Start of the time window
