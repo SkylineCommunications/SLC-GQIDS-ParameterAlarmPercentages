@@ -9,11 +9,11 @@ This result in a table with 2 columns:
 - Percentage
   - A double column identifying the percentage of time this parameter was in the state of this severity.
 
-![Severities example](images/Severities.png);
+![Severities example](images/Severities.png)
 
 This can also be displayed in any other GQI visualization. A pie chart for this data is most suitable. Note that the colors of the pie chart need to be configured manually. These colors are mapped based on the row order.
 
-![Piechart example](images/PieChart.png);
+![Piechart example](images/PieChart.png)
 
 ## Arguments
 
