@@ -1,4 +1,4 @@
-# About
+## Overview
 
 The Parameter Alarm Percentages data source retrieves the severity-wise percentages of a parameter within a specified time period.
 
@@ -15,22 +15,22 @@ The data can be visualized in any GQI visualization. A pie chart is most suitabl
 
 > **Note**: When using a pie chart, the colors need to be configured manually. These colors are mapped based on the row order.
 
-# Key Features
+## Key Features
 
 - Shows the percentage of time a parameter spent in each alarm severity
 - Can be used for any standalone parameter
 
-# Use Cases
+## Use Cases
 
-## Monitoring Parameter Alarm Distribution
+- **Monitoring Parameter Alarm Distribution**
 
 Visualize the distribution of alarm severities for a specific parameter over a given time window to identify patterns and trends in alarm behavior.
 
-## Time-based Alarm Analysis
+- **Time-based Alarm Analysis**
 
 Analyze how much time a parameter spends in different severity states (Normal, Warning, Minor, Major, Critical) to assess system health and performance.
 
-# Arguments
+## Configuration
 
 This data source requires 3 arguments:
 
